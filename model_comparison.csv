@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Random Forest,0.9984,0.0,0.0,0.0
+XGBoost,0.9976,0.0,0.0,0.0
+Isolation Forest,0.9536,0.03333333333333333,1.0,0.06451612903225806
